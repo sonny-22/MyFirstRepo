@@ -1,3 +1,4 @@
+# Brief Introduction About Myself
 Hi! I’m Sonny Muhire, a passionate learner from Rwanda diving into the world of software engineering. I enjoy solving real-world problems with code, and I’m always looking for new things to learn and create.
 
 My dream is to become a skilled software engineer and contribute to building tech solutions that matter. This is just the beginning of my journey, and I’m super excited about what lies ahead!
