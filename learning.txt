@@ -1,0 +1,1 @@
+So far, I've learned how to use Git version control, cloning repos, committing changes, and pushing updates. It's actually kinda fun to track your progress!
